@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kay-Atomz
 - 👀 I’m interested in programming 
-- 🌱 I’m currently learning python, html, css, Django
+- 🌱 I’m currently learning Python, JavaScript Html, CSS, Django
 - 💞️ I’m looking to collaborate on web development projects
 - 📫 How to reach me kgotsofuture@gmail.com / https://www.linkedin.com/in/kgotso-mgiba-2868a216b
 
